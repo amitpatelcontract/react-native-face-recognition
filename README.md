@@ -5,6 +5,8 @@
 
 `$ npm install react-native-face-recognition --save`
 
+above line failed for me so using npm install react-native-facerecognition --save
+
 ### Mostly automatic installation
 
 `$ react-native link react-native-face-recognition`
